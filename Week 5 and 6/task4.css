@@ -1,0 +1,39 @@
+body{
+    margin: 0; 
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Four{
+    background-color: rgb(224, 141, 187);
+    color: black;
+    width: 100%;
+    margin: auto;
+    height: 1250px;
+}
+
+.Four img{
+    width: 50%;
+    margin-right: 50%;
+    height: 1245px;
+}
+
+.Four .right{
+    margin-right: 100px;
+    margin-top: -1100px;
+}
+.Four h1{
+    color:brown;
+    font-size: 150px;
+    margin-top: 15px;
+    margin-left: 1500px;
+}
+
+.Four p{
+    color: bisque;
+    font-size: 50px;
+    font-weight: 300;
+    margin-top: 250px;
+    margin-bottom: 80px;
+    margin-left: 1500px;
+}

@@ -1,0 +1,44 @@
+.three{
+    background-color: rgb(173, 141, 202);
+    color: rgb(24, 16, 134);
+    width: 100%;
+    margin: auto;
+    height: 1230px;
+}
+
+.three h1{
+    color:aliceblue;
+    font-size: 85px;
+    text-align: center;
+}
+
+.three img{
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    padding: 0 30px;
+}
+
+.content{
+    text-align: center;
+}
+
+.content h2{
+    font-size: 24px;
+    font-weight: 1000;
+    margin-bottom: 10px;
+    padding: 0 300px;
+    display: inline-block;
+}
+    
+.content p{
+    color: rgb(71, 51, 24);
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 400px;
+    display: inline-block;
+}
+    
+    
